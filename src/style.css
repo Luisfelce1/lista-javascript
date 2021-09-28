@@ -1,0 +1,14 @@
+
+html, body { 
+    height: 100%;
+    margin: 0;
+    background-image: repeating-linear-gradient(45deg, #ffffff 0px, #ffffff 20px,  #b1e0ff 20px, #b1e0ff 40px);
+}
+
+hr, h1 {
+    color: rgb(15, 14, 14);
+}
+
+img {
+    width: 150px;
+}

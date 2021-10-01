@@ -1,6 +1,6 @@
 # WebPack Starte
 
-Este es el proyecto inicial para crear aplicaciones utilizando webpack.
+Esto es una lista de tareas en javascript con las configuraciones de webpack incluido
 
 ### Nota: Reconstruir los modulos de node.
 ``npm install``
